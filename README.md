@@ -2,19 +2,19 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/6f52027e-2405-4d3c-a494-6baed295332d
+**Test URL**: [https://sanyu.netlify.app/](https://sanyu.netlify.app/)
 
+## requirement
+The only requirement is having *Node.js* & *npm installed* - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+If you have already installed it, follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone [<YOUR_GIT_URL>](https://github.com/todalyndaloja-commits/sanyu-landing-page.git)
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd sanyu-landing-page
 
 # Step 3: Install the necessary dependencies.
 npm i
