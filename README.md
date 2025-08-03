@@ -11,7 +11,7 @@ If you have already installed it, follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone [https://github.com/todalyndaloja-commits/sanyu-landing-page.git](https://github.com/todalyndaloja-commits/sanyu-landing-page.git)
+git clone https://github.com/todalyndaloja-commits/sanyu-landing-page.git
 
 # Step 2: Navigate to the project directory.
 cd sanyu-landing-page
