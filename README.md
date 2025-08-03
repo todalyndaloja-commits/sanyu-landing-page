@@ -1,4 +1,4 @@
-# Welcome to your sanyu landing page project
+# Welcome to sanyu landing page project
 
 ## Project info
 
